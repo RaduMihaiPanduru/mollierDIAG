@@ -3,6 +3,7 @@ It requires installing the folowing dependencies:
 - matplotlib
 - numpy
 - tkinter
+
 The provided dependencies could be replaced as preffered by user.
 In code section of MoD.Py is already defined au custom area for comfort zone that can be changed by user for specific cases of use.
 It is a useful in scope of building monitoring and evaluation of indoor enviromental parameters. 
