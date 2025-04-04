@@ -1,3 +1,4 @@
+# educational purpose python code. Free to use and modify. Main concept atributed to radu-mihai.panduru@student.tuiasi.ro
 import numpy as np
 import matplotlib.pyplot as plt
 import tkinter as tk
